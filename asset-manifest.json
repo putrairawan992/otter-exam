@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/otter-exam/static/css/main.5f361e03.chunk.css",
+    "main.js": "/otter-exam/static/js/main.9b1295d1.chunk.js",
+    "main.js.map": "/otter-exam/static/js/main.9b1295d1.chunk.js.map",
+    "runtime-main.js": "/otter-exam/static/js/runtime-main.8b391353.js",
+    "runtime-main.js.map": "/otter-exam/static/js/runtime-main.8b391353.js.map",
+    "static/css/2.63b65d4e.chunk.css": "/otter-exam/static/css/2.63b65d4e.chunk.css",
+    "static/js/2.601b3ada.chunk.js": "/otter-exam/static/js/2.601b3ada.chunk.js",
+    "static/js/2.601b3ada.chunk.js.map": "/otter-exam/static/js/2.601b3ada.chunk.js.map",
+    "index.html": "/otter-exam/index.html",
+    "precache-manifest.e6f026de62b7b6e75d7268f0f34f3faf.js": "/otter-exam/precache-manifest.e6f026de62b7b6e75d7268f0f34f3faf.js",
+    "service-worker.js": "/otter-exam/service-worker.js",
+    "static/css/2.63b65d4e.chunk.css.map": "/otter-exam/static/css/2.63b65d4e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/otter-exam/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.601b3ada.chunk.js.LICENSE.txt": "/otter-exam/static/js/2.601b3ada.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/otter-exam/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b391353.js",
+    "static/css/2.63b65d4e.chunk.css",
+    "static/js/2.601b3ada.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9b1295d1.chunk.js"
+  ]
+}
