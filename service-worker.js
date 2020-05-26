@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/otter-exam/precache-manifest.e6f026de62b7b6e75d7268f0f34f3faf.js"
+  "/otter-exam/precache-manifest.04ef15f47649ace3b5a0ae216b660c8e.js"
 );
 
 self.addEventListener('message', (event) => {

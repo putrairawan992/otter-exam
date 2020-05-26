@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcd6c52b9ce2eb3bf1b964c345340243",
+    "revision": "a3f8e99bf91d36932a58a96425292c43",
     "url": "/otter-exam/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/otter-exam/static/css/2.63b65d4e.chunk.css"
   },
   {
-    "revision": "0baae6700f46634b4a4a",
+    "revision": "7f0aae828312341480f5",
     "url": "/otter-exam/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/otter-exam/static/js/2.601b3ada.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0baae6700f46634b4a4a",
-    "url": "/otter-exam/static/js/main.9b1295d1.chunk.js"
+    "revision": "7f0aae828312341480f5",
+    "url": "/otter-exam/static/js/main.4ca7489f.chunk.js"
   },
   {
     "revision": "06f2c6be3c2e9a71dea5",
